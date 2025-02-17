@@ -104,12 +104,6 @@ To install and run the **Water Intake Tracker App**:
 
 ---
 
-## **🔗 Links & Resources**
-- **MIT App Inventor**: [https://appinventor.mit.edu/](https://appinventor.mit.edu/)  
-- **GitHub Repository**: [[Your GitHub Repo Link Here](https://github.com/nic-dgl104-winter-2025/project-1-mit-app-mrsaif888)]
-
----
-
 ## ** Author & Contributions**
  Developed by **Saif Ullah** as part of a **Social impact project** to promote hydration and environmental awareness. Contributions are welcome!  
 
